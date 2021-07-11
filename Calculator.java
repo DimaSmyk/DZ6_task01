@@ -2,7 +2,7 @@ package selfwork06.task01;
 
 public class Calculator {
 
-    public int plus (int a, int b){
+    public double multiply (double a, double b){
         return a + b;
     }
 }
